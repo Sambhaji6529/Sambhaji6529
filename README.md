@@ -14,7 +14,8 @@
 - ⚡ Fun fact **I am Funny 😀**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="http://www.instagram.com/sambhaji_sonwane2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/sambhajisonwane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/sambhaji_sonwane2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
