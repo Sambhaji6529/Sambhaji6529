@@ -14,8 +14,13 @@
 - ⚡ Fun fact **I am Funny 😀**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/sambhajisonwane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/sambhaji_sonwane2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/sambhaji sonwane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambhaji sonwane" height="30" width="40" /></a>
+<a href="https://kaggle.com/sambhajisonwane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sambhajisonwane" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sambhajisonwane1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sambhajisonwane1" height="30" width="40" /></a>
+<a href="http://www.instagram.com/sambhaji_sonwane2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
